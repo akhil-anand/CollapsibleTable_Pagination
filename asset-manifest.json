@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CollapsibleTable_Pagination/static/css/main.f855e6bc.css",
-    "main.js": "/CollapsibleTable_Pagination/static/js/main.86d0698e.js",
+    "main.js": "/CollapsibleTable_Pagination/static/js/main.957321c4.js",
     "static/js/453.3570bddc.chunk.js": "/CollapsibleTable_Pagination/static/js/453.3570bddc.chunk.js",
     "static/media/logo.svg": "/CollapsibleTable_Pagination/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CollapsibleTable_Pagination/index.html",
     "main.f855e6bc.css.map": "/CollapsibleTable_Pagination/static/css/main.f855e6bc.css.map",
-    "main.86d0698e.js.map": "/CollapsibleTable_Pagination/static/js/main.86d0698e.js.map",
+    "main.957321c4.js.map": "/CollapsibleTable_Pagination/static/js/main.957321c4.js.map",
     "453.3570bddc.chunk.js.map": "/CollapsibleTable_Pagination/static/js/453.3570bddc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.86d0698e.js"
+    "static/js/main.957321c4.js"
   ]
 }
